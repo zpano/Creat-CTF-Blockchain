@@ -1,0 +1,13 @@
+contract: Vuln # Challenge contract name(class name)
+
+# The description will be displayed when players nc to the challenge
+description: |
+   We design a pretty easy contract challenge. Enjoy it!
+   Your goal is to make isSolved() function returns true!
+
+flag: flag{placeholder}
+
+constructor:
+       
+	args:
+	value:0
